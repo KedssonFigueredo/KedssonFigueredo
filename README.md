@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1063de&background=73CD1600&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" /></a> 
 </p>
 <h3> 🤓 Cursando Desenvolvimento de Software Multiplataforma - FATEC</h3>
-<h3> 💻 Desenvolvedor Web Java - Instituto PROA.</h3>
+<h3> 💻 Desenvolvedor </h3>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KedssonFigueredo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KedssonFigueredo&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KedssonFigueredo&theme=tokyonight) |
 | :-: | :-: | :-: |
